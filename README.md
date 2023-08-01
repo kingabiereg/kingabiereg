@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kinga</h1>
 <h3 align="center">ambitious, always focus on the goals, kind-hearted team player</h3>
 <Alt-H2></Alt-H2>
+
 - 🔭 I’m currently working on **Library web app JAVA + Spring**
 
 - 👯 I’m looking to collaborate on **open-source or NGO projects**
